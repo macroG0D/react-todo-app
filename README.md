@@ -1,1 +1,2 @@
-# Todo app
+# Todo app on React
+Study project 
